@@ -1,15 +1,40 @@
 # BOB
-Landing page for a Brainobrain center with Google Maps, trial booking, and AI assistant
 # Brainobrain Center Landing Page
 
-This repository contains the complete HTML, CSS, and JavaScript code for a **Brainobrain center landing page**. The page includes:
+![Brainobrain Banner](banner-image-url-if-any)
 
-- Hero section highlighting the center’s benefits
-- Programs for different age groups (4-14 years)
-- Testimonials and success stats
+## Overview
+This repository contains the full **HTML, CSS, and JavaScript code** for a Brainobrain center landing page. The page is designed to promote a specific center, allowing parents to learn about programs, read testimonials, locate the center, and book a free trial class.
+
+The landing page includes:
+
+- Hero section with center highlights and call-to-action buttons
+- Age-specific programs (4–14 years) with details
+- Testimonials and success statistics
 - Free trial booking form
 - Google Maps embed showing the center’s location
 - Optional AI Assistant for parent queries
-- Mobile-friendly and responsive design
+- Fully responsive and mobile-friendly design
+- Smooth animations and modern UI elements
 
-This project is ready to deploy on **GitHub Pages** to get a live URL for the center. It’s designed to be modular so AI integration or additional features can be easily added.
+---
+
+## Features
+
+- **Responsive Design:** Works seamlessly on desktop, tablet, and mobile devices  
+- **Google Maps Integration:** Shows exact location of the center  
+- **Free Trial Booking Form:** Collects child’s and parent’s information  
+- **AI Assistant (Optional):** Can answer parent queries in real-time  
+- **Interactive Sections:** Programs, testimonials, and stats with hover effects  
+- **Easy Deployment:** Compatible with GitHub Pages or any static hosting
+
+---
+
+## Folder Structure
+brainobrain-center/
+├── index.html # Main HTML file
+├── style.css # CSS file (optional if separate)
+├── script.js # JS file for interactions and AI assistant
+├── assets/ # Images, icons, and other media
+└── README.md # This file
+
